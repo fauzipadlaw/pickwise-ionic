@@ -1,0 +1,7 @@
+{
+  "name": "pickwise-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
